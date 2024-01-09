@@ -1,4 +1,4 @@
-# Bitcoin Price Forecasting Model by using LSTM Multivariate 
+# Bitcoin Price Forecasting Model (LSTM Multivariate) 
 ## objectives:
 1. To conduct a sentiment analysis on Bitcoin related tweets data.
 2. To conduct exploratory data analysis in order to investigate and comprehend the patterns in the Bitcoin historical price and Bitcoin related tweets data.
